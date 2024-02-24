@@ -1,0 +1,17 @@
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\JwtRequest.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\JwtResponse.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\repositories\LogsRepository.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\UserDTO.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\serviceInterfaces\AuthenticationServiceIntarface.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\AuthenticationServiceApplication.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\config\JwtTokenProvider.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\config\WebSecurityConfig.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\Logs.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\UserCredentiel.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\controllers\AuthenticationController.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\filter\JwtRequestFilter.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\services\JwtUserDetailsService.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\repositories\UserDAO.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\CurrentUser.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\models\DAOUser.java
+C:\Sesame\PPE\Authentication-service\src\main\java\org\sesame\ms\security\authentication\filter\JwtAuthenticationEntryPoint.java

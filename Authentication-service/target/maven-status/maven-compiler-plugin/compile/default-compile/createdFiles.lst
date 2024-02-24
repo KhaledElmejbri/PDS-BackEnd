@@ -1,0 +1,17 @@
+org\sesame\ms\security\authentication\models\DAOUser.class
+org\sesame\ms\security\authentication\config\WebSecurityConfig.class
+org\sesame\ms\security\authentication\controllers\AuthenticationController.class
+org\sesame\ms\security\authentication\models\CurrentUser.class
+org\sesame\ms\security\authentication\models\Logs.class
+org\sesame\ms\security\authentication\repositories\UserDAO.class
+org\sesame\ms\security\authentication\AuthenticationServiceApplication.class
+org\sesame\ms\security\authentication\filter\JwtAuthenticationEntryPoint.class
+org\sesame\ms\security\authentication\models\JwtRequest.class
+org\sesame\ms\security\authentication\filter\JwtRequestFilter.class
+org\sesame\ms\security\authentication\serviceInterfaces\AuthenticationServiceIntarface.class
+org\sesame\ms\security\authentication\models\JwtResponse.class
+org\sesame\ms\security\authentication\services\JwtUserDetailsService.class
+org\sesame\ms\security\authentication\models\UserDTO.class
+org\sesame\ms\security\authentication\repositories\LogsRepository.class
+org\sesame\ms\security\authentication\models\UserCredentiel.class
+org\sesame\ms\security\authentication\config\JwtTokenProvider.class
